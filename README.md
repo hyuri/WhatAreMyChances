@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/18584014/62755249-9d8aa980-ba49-11e9-8b3c-961c51f97d26.png)
+
 # What Are My Chances?
 
 A web app I was writing when the outbreak of yellow fever hit us in Brazil in 2018, with the aim of hopefully helping people better evaluate whether they had better chances of survival by taking the vaccine, or avoiding it, by comparing the chances of getting infected by the disease versus the chances of suffering from severe complications from taking the vaccine.
