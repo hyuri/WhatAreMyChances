@@ -1,0 +1,76 @@
+body {
+	margin: 40px;
+	background-color: yellow;
+	font-family: Sans-serif;
+}
+
+.header {
+	grid-area: header;
+}
+
+.content {
+	grid-area: content;
+	text-align: center;
+}
+
+.content h1 {
+	color: black;
+}
+
+.content h4 {
+	color: brown;
+}
+
+.disclaimer {
+	grid-area: disclaimer;
+	padding: 20px;
+}
+
+.sources {
+	grid-area: sources;
+	background-color: black;
+	padding: 20px;
+	color: gray;
+}
+
+.easter_egg {
+	grid-area: easter_egg;
+	text-align: right;
+	display: none;
+}
+
+.wrapper {
+	display: grid;
+	grid-template-areas:
+	"header  easter_egg easter_egg"
+	"content content content"
+	"disclaimer disclaimer disclaimer"
+	"sources sources sources";
+}
+
+button {
+	background-color: Transparent;
+
+	border: 2px solid #262600;
+	border-radius: 5px;
+
+	outline: none;
+
+	padding: 10px 20px;
+
+	color: #262600;
+
+	font-family: Sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: rgba(0, 0, 0, 0.05);
+}
+
+button:active {
+	background-color: rgba(0, 0, 0, 0.1);
+}
