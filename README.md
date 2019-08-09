@@ -10,6 +10,6 @@ But "life got in the way" and I didn't get to finish it in time for it to be use
 * Break index.html into jinja templates
 * Port styling to Sass
 * Write remaining pages
-* Write the whole system for systematically and reliably extracting data from "reliable" sources, calculating the users chances, and delivering it to the user
+* Write the whole system for systematically and reliably extracting data from "reliable" sources, calculating the user's chances, and delivering it
 * Write a login system to enable users to save, privately, their named results, as well as to enable multiple runs on the same session so that parents can check for the whole family, save the results and not get confused with the multiple results they might have generated
 * Structure it so to make it easy to support other diseases/vaccines
