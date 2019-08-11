@@ -2,7 +2,7 @@
 
 # What Are My Chances?
 
-A web app I was writing when the outbreak of yellow fever hit us in Brazil in 2018, with the aim of hopefully helping people better evaluate whether they had better chances of survival by taking the vaccine, or avoiding it, by comparing the chances of getting infected by the disease versus the chances of suffering from severe complications from taking the vaccine.
+A web app I was writing when the outbreak of yellow fever hit us in Brazil in 2018, with the aim of hopefully helping people better evaluate whether they had better chances of survival by taking the vaccine, or by avoiding it, by comparing the chances of getting infected by the disease versus the chances of suffering from severe complications from taking the vaccine.
 Basically, if the chances of severe complications were higher than the chances of being infected by the disease if not taking the vaccine, the recommendation would be to avoid the vaccine, and vice-versa.
 The calculation would be based on the user's current and future—planned—locations, health status as well as other factors.
 I did some comprehensive research on the recommendations, and the whole thing was to be based on brazillian, as well as international, recommendations for yellow fever vaccination.
